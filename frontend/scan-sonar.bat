@@ -1,0 +1,1 @@
+C:\fullstack\washmen\washmenassignment2\sonar-scanner\bin\sonar-scanner.bat -D"sonar.projectKey=washmen-be" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_6338fc5e89b44c1ea15d1b2f2cc0b1a9460b62c7"
